@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Diretório de dados persistentes do usuário
+data/session.json
+data/config.json
+
+# Diretórios virtuais
+venv/
+env/
+.env/
